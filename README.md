@@ -105,32 +105,30 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- AI & CYBERSECURITY SECTION -->
+<!-- AI & SYSTEMS SECTION -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;`AI.cybersecurity_profile()`
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;`AI.systems_profile()`
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗ ██████╗ ██████╗ ███████╗    ███████╗██╗  ██╗██╗██╗    ║
-║  ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔════╝██║ ██╔╝██║██║    ║
-║  ██║     ██║   ██║██████╔╝█████╗      ███████╗█████╔╝ ██║██║    ║
-║  ██║     ██║   ██║██╔══██╗██╔══╝      ╚════██║██╔═██╗ ██║██║    ║
-║  ╚██████╗╚██████╔╝██║  ██║███████╗    ███████║██║  ██╗██║███████╗║
-║   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝║
-║                                                                  ║
-║  [■] Computer Vision ............ YOLOv8 / OpenCV / Detection    ║
-║  [■] AI Systems ................ Real-time Inference / Flask      ║
-║  [■] Pathfinding ............... A* Algorithm / Smart Routing     ║
-║  [■] Threat Detection .......... AI-powered Risk Classification  ║
-║  [■] Cybersecurity ............. Threat Analysis / Automation     ║
-║  [■] Full Stack ................ React / Node.js / TypeScript     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| 🚀 Domain | ⚡ Focus |
+|---|---|
+| 👁️ Computer Vision | YOLOv8 • OpenCV • Detection Systems |
+| 🧠 AI Systems | Real-time Inference • Flask • Automation |
+| 🧭 Smart Routing | A* Algorithm • Evacuation Logic |
+| 🛡️ Security Concepts | Threat Detection • Risk Analysis |
+| 🌐 Full Stack | React • Node.js • TypeScript |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_SYSTEMS-00ff41?style=for-the-badge&labelColor=0d1117&logo=openai&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/COMPUTER_VISION-00d4ff?style=for-the-badge&labelColor=0d1117&logo=opencv&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/FULL_STACK-bf00ff?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=bf00ff" />
 
 </div>
 
