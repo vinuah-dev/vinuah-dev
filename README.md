@@ -287,38 +287,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;`GITHUB.analytics()`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinuah-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff41" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinuah-dev&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00D4FF&currStreakLabel=00FF41&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuah-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinuah-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=bf00ff&area=true&area_color=00ff4120" alt="Contribution Graph" />
-
-<br/>
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinuah-dev/vinuah-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinuah-dev/vinuah-dev/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vinuah-dev/vinuah-dev/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- FUN QUOTE / MOTTO -->
@@ -360,8 +328,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Vineet_Shah-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://instagram.com/ADD_PLACEHOLDER" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@ADD__PLACEHOLDER-bf00ff?style=for-the-badge&logo=instagram&logoColor=bf00ff&labelColor=0d1117" alt="Instagram" />
+<a href="https://www.instagram.com/vinuah999" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@vinuah999-bf00ff?style=for-the-badge&logo=instagram&logoColor=bf00ff&labelColor=0d1117" alt="Instagram" />
 </a>
 
 <br/><br/>
