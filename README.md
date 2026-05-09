@@ -4,7 +4,7 @@
 <!-- ANIMATED HEADER BANNER -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:bf00ff,100:0d1117&height=220&section=header&text=VINEET%20SHAH&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20AI%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=14&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:bf00ff,100:0d1117&height=220&section=header&text=VINEET%20SHAH&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20AI%20Systems%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Automation%20%E2%80%A2%20Full%20Stack%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=14&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING SVG EFFECT -->
@@ -43,7 +43,7 @@
 │                                                                      │
 │   Name      :  Vineet Shah                                           │
 │   Handle    :  vinuah-dev                                            │
-│   Role      :  AI Developer • Cybersecurity Enthusiast               │
+│   Role      :  AI Systems Developer • Automation Engineer            │
 │   Education :  Computer Science Student                              │
 │                                                                      │
 │   Mission   :  Building real-world intelligent systems               │
@@ -99,6 +99,8 @@
 <img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/VS_Code-bf00ff?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PyQt5-00ff41?style=for-the-badge&logo=qt&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Automation-bf00ff?style=for-the-badge&logo=zapier&logoColor=0d1117&labelColor=0d1117" />
 
 </div>
 
@@ -117,7 +119,8 @@
 | 👁️ Computer Vision | YOLOv8 • OpenCV • Detection Systems |
 | 🧠 AI Systems | Real-time Inference • Flask • Automation |
 | 🧭 Smart Routing | A* Algorithm • Evacuation Logic |
-| 🛡️ Security Concepts | Threat Detection • Risk Analysis |
+| 🛡️ Cybersecurity AI | Phishing Detection • Threat Analysis |
+| 🤖 Intelligent Assistants | Voice AI • Automation • Memory Systems |
 | 🌐 Full Stack | React • Node.js • TypeScript |
 
 </div>
@@ -203,7 +206,7 @@
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" /> <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=00d4ff" /> <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=zapier&logoColor=bf00ff" />
 
-> *Personal AI assistant with voice control, automation, and integrated threat detection capabilities*
+> Award-winning AI desktop assistant with voice interaction, intelligent automation, phishing detection, memory systems, and real-time task execution
 
 </td>
 <td width="50%" valign="top">
@@ -248,6 +251,19 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- CURRENTLY BUILDING / LEARNING -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 `ACHIEVEMENTS.unlocks()`
+
+<div align="center">
+
+| 🥇 Achievement | 📍 Event |
+|---|---|
+| 🏆 1st Place — ANVESHAN Project Competition | Nagpur Institute of Technology |
+| 💰 Prize Won: ₹3100 | AI/Innovation Project Category |
+| 🌍 Top 10 — EFOS SkillUp India Hackathon 2026 | National-Level Innovation Hackathon |
+| 💰 Prize Won: ₹1100 | AI Automation & Intelligent Systems |
+
+</div>
 
 ## <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="28"> &nbsp;`STATUS.current()`
 
@@ -339,6 +355,16 @@
 </div>
 
 <br/>
+
+## 📊 `SYSTEM.stats()`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinuah-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinuah-dev&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
